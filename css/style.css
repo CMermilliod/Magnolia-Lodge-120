@@ -1,3 +1,24 @@
+nav {
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    background-color: navy;
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 12px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: gold;
+    color: black;
+}
 body {
     margin: 0;
     font-family: Arial, sans-serif;
