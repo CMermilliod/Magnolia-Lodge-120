@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 25px;
+}
+.membership {
+    margin-left: 40px;
+}
+footer {
+    background: #eeeeee;
+    text-align: center;
+    padding: 10px;
+}
